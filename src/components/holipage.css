@@ -99,3 +99,17 @@ video
         -webkit-filter: hue-rotate(700deg);
     }
 }
+
+
+@media (max-width: 768px) {
+    .myinfo {
+      top: 100px;
+      left: 50px;
+      width: 300px;
+      font-size: 16px;
+    }
+  
+    h1 {
+      font-size: 60px;
+    }
+  }
