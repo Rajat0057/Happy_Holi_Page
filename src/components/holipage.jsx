@@ -47,8 +47,7 @@ const Holipage = () => {
         <h1>i am Rajat</h1>
         <p>Wishing you and your loved ones a very colourful Holi<br />May you forget all your worries and enjoy this day to the fullest.<br /> <h2 className="hue">Happy Holi!</h2></p>
 
-        <a href="#" className="btn btn-danger mr-3 hue">contact</a>
-        <a href="#" className="btn btn-light">Login</a>
+       
       </div>
 
       <video autoPlay loop playsInline muted>
